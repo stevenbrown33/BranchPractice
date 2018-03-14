@@ -12,6 +12,7 @@
 		DF6D5EED2059844F002F7BF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF6D5EEB2059844F002F7BF5 /* Main.storyboard */; };
 		DF6D5EEF2059844F002F7BF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF6D5EEE2059844F002F7BF5 /* Assets.xcassets */; };
 		DF6D5EF22059844F002F7BF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF6D5EF02059844F002F7BF5 /* LaunchScreen.storyboard */; };
+		DF6D5EFA20598BAD002F7BF5 /* ColorHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6D5EF920598BAD002F7BF5 /* ColorHelpers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DF6D5EEE2059844F002F7BF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF6D5EF12059844F002F7BF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF6D5EF32059844F002F7BF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF6D5EF920598BAD002F7BF5 /* ColorHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorHelpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				DF6D5EE72059844E002F7BF5 /* AppDelegate.swift */,
 				DF6D5EE92059844F002F7BF5 /* ViewController.swift */,
+				DF6D5EF920598BAD002F7BF5 /* ColorHelpers.swift */,
 				DF6D5EEB2059844F002F7BF5 /* Main.storyboard */,
 				DF6D5EEE2059844F002F7BF5 /* Assets.xcassets */,
 				DF6D5EF02059844F002F7BF5 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				DF6D5EEA2059844F002F7BF5 /* ViewController.swift in Sources */,
 				DF6D5EE82059844E002F7BF5 /* AppDelegate.swift in Sources */,
+				DF6D5EFA20598BAD002F7BF5 /* ColorHelpers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
